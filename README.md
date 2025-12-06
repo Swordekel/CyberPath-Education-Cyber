@@ -21,12 +21,6 @@ CyberPath adalah platform edukasi interaktif berbasis web yang dirancang untuk m
 - Desain elegan dengan animasi halus dan efek cahaya neon.
 - Akses cepat ke modul, kuis, dan lab virtual.
 
-### 🧩 **Integrasi dan Struktur Modular**
-- Backend: **Laravel 12.x (PHP 8.4)**
-- Frontend: **Blade + TailwindCSS + Framer Motion**
-- Database: **MySQL / MariaDB**
-- Struktur modular dengan *Seeder* otomatis untuk quiz & pertanyaan.
-
 ---
 ## ⚙️ Instalasi Lokal
 
