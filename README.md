@@ -32,7 +32,7 @@ CyberPath adalah platform edukasi interaktif berbasis web yang dirancang untuk m
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Swordkel/CyberPath.git
+git clone https://github.com/Swordekel/CyberPath-Education-Cyber.git
 cd CyberPath
 ```
 
